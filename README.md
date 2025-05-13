@@ -1,6 +1,9 @@
 # Netflix Movies and TV Shows Dashboard using Power BI
 Netflix is one of the most popular media and video streaming platforms, boasting over 200 million subscribers globally as of mid-2021. This tabular dataset consists of listings of all the movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, duration, etc.
 
+This is an interactive Power BI Dashboard , you can interact with this NETFLIX AND CHILL dashboard here 
+https://app.powerbi.com/reportEmbed?reportId=20686325-3338-46d0-aa4f-edf3565d7ea6&autoAuth=true&ctid=8b7de264-0f52-4308-b632-89d93e93c254
+
 
 ## Introduction
 Netflix, the global giant in media and video streaming, captivates over 200 million subscribers worldwide with its diverse library of over 8000 movies and TV shows. In this age of digital entertainment, understanding the intricate dynamics of Netflix's content offering is paramount. Our "Netflix Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.
